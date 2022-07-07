@@ -1,5 +1,5 @@
 ﻿using System;
-namespace RazorPizzeria.Models
+namespace RazorPizzeria.Model
 {
     public class PizzasModel
     {
@@ -16,7 +16,7 @@ namespace RazorPizzeria.Models
             public bool Pineapple { get; set; }
             public bool Ham { get; set; }
             public bool Beef { get; set; }
-            public bool sugar { get; set; }
+            
      }
     
 }
