@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cSO+DQVa5T+QokcWypeQWY78ggDh024C0i7dIEgFuAQ=",
+  "Hash": "DXQZr/V15U6fHBy28ljFkxaaoBW/Dz/wC1oJjB6URfE=",
   "Source": "RazorPizzeria",
   "BasePath": "_content/RazorPizzeria",
   "Mode": "Default",
@@ -100,23 +100,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
-    },
-    {
-      "Identity": "/Users/elselif/Projects/RazorPizzeria/RazorPizzeria/wwwroot/images/.DS_Store",
-      "SourceId": "RazorPizzeria",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/elselif/Projects/RazorPizzeria/RazorPizzeria/wwwroot/",
-      "BasePath": "_content/RazorPizzeria",
-      "RelativePath": "images/.DS_Store",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/.DS_Store"
     },
     {
       "Identity": "/Users/elselif/Projects/RazorPizzeria/RazorPizzeria/wwwroot/images/Pizzas/Bolognese.png",

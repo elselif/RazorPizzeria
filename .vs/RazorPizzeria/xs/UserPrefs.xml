@@ -1,17 +1,24 @@
 ﻿<Properties StartupConfiguration="{ACFB74A6-64FD-4B36-8BF2-707FFCC01F1C}|Default">
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.RazorPizzeria PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPizzeria/Pages/Forms/CustomPizza.cshtml.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPizzeria/Pages/Pizza.cshtml">
     <Files>
       <File FileName="RazorPizzeria/Pages/Shared/_Layout.cshtml" Line="32" Column="23" />
-      <File FileName="RazorPizzeria/Pages/Pizza.cshtml" Line="32" Column="19" />
-      <File FileName="RazorPizzeria/Pages/Index.cshtml" Line="11" Column="65" />
-      <File FileName="RazorPizzeria/wwwroot/css/site.css" Line="27" Column="17" />
-      <File FileName="RazorPizzeria/Pages/Forms/CustomPizza.cshtml" Line="23" Column="78" />
-      <File FileName="RazorPizzeria/Models/PizzasModel.cs" Line="5" Column="6" />
-      <File FileName="RazorPizzeria/Pages/Forms/CustomPizza.cshtml.cs" Line="33" Column="45" />
+      <File FileName="RazorPizzeria/Pages/Checkout/ThankYou.cshtml" Line="1" Column="1" />
+      <File FileName="RazorPizzeria/Pages/Checkout/ThankYou.cshtml.cs" Line="17" Column="2" />
+      <File FileName="RazorPizzeria/Pages/Pizza.cshtml.cs" Line="26" Column="11" />
+      <File FileName="RazorPizzeria/Pages/Error.cshtml" Line="1" Column="1" />
+      <File FileName="RazorPizzeria/Pages/Pizza.cshtml" Line="56" Column="1" />
+      <File FileName="RazorPizzeria/Pages/Forms/CustomPizza.cshtml.cs" Line="1" Column="1" />
+      <File FileName="RazorPizzeria/Pages/Forms/CustomPizza.cshtml" Line="32" Column="7" />
+      <File FileName="RazorPizzeria/Pages/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="RazorPizzeria/Pages/Checkout/Checkout.cshtml" Line="20" Column="100" />
+      <File FileName="RazorPizzeria/Model/PizzasModel.cs" Line="19" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,25 +26,11 @@
           <Node name="RazorPizzeria" expanded="True">
             <Node name="RazorPizzeria" expanded="True">
               <Node name="Model" expanded="True" />
-              <Node name="Pages" expanded="True">
-                <Node name="Forms" expanded="True">
-                  <Node name="CustomPizza.cshtml" expanded="True">
-                    <Node name="CustomPizza.cshtml.cs" selected="True" />
-                  </Node>
-                </Node>
-                <Node name="Shared" expanded="True" />
-              </Node>
+              <Node name="Pages" expanded="True" />
               <Node name="Properties" expanded="True" />
               <Node name="wwwroot" expanded="True">
                 <Node name="css" expanded="True" />
-                <Node name="images" expanded="True" />
-                <Node name="lib" expanded="True">
-                  <Node name="bootstrap" expanded="True">
-                    <Node name="dist" expanded="True">
-                      <Node name="css" expanded="True" />
-                    </Node>
-                  </Node>
-                </Node>
+                <Node name="lib" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -48,7 +41,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
