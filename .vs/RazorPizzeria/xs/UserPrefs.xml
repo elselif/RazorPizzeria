@@ -1,36 +1,18 @@
 ﻿<Properties StartupConfiguration="{ACFB74A6-64FD-4B36-8BF2-707FFCC01F1C}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.RazorPizzeria PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPizzeria/Pages/Pizza.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPizzeria/Data/ApplicationDbContext.cs">
     <Files>
-      <File FileName="RazorPizzeria/Pages/Shared/_Layout.cshtml" Line="32" Column="23" />
-      <File FileName="RazorPizzeria/Pages/Checkout/ThankYou.cshtml" Line="1" Column="1" />
-      <File FileName="RazorPizzeria/Pages/Checkout/ThankYou.cshtml.cs" Line="17" Column="2" />
-      <File FileName="RazorPizzeria/Pages/Pizza.cshtml.cs" Line="26" Column="11" />
-      <File FileName="RazorPizzeria/Pages/Error.cshtml" Line="1" Column="1" />
-      <File FileName="RazorPizzeria/Pages/Pizza.cshtml" Line="56" Column="1" />
-      <File FileName="RazorPizzeria/Pages/Forms/CustomPizza.cshtml.cs" Line="1" Column="1" />
-      <File FileName="RazorPizzeria/Pages/Forms/CustomPizza.cshtml" Line="32" Column="7" />
-      <File FileName="RazorPizzeria/Pages/_ViewImports.cshtml" Line="1" Column="1" />
-      <File FileName="RazorPizzeria/Pages/Checkout/Checkout.cshtml" Line="20" Column="100" />
       <File FileName="RazorPizzeria/Model/PizzasModel.cs" Line="19" Column="13" />
+      <File FileName="RazorPizzeria/Model/PizzaOrder.cs" Line="11" Column="45" />
+      <File FileName="RazorPizzeria/Data/ApplicationDbContext.cs" Line="13" Column="1" />
+      <File FileName="RazorPizzeria/appsettings.json" Line="4" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RazorPizzeria" expanded="True">
             <Node name="RazorPizzeria" expanded="True">
-              <Node name="Model" expanded="True" />
-              <Node name="Pages" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True" />
-                <Node name="lib" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="ApplicationDbContext.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -41,4 +23,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RazorPizzeria PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
 </Properties>

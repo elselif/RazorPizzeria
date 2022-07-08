@@ -1,11 +1,18 @@
 ﻿using System;
+using Microsoft.EntityFrameworkCore;
+using RazorPizzeria.Model
+
 namespace RazorPizzeria.Data
 {
-    public class ApplicationDbContext
+    public class ApplicationDbContext : DbContext
     {
-        public ApplicationDbContext()
+        public DbSet<PizzaOrder> PizzaOrders { get; set; }
+
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base()
         {
+
         }
+        
     }
 }
 
